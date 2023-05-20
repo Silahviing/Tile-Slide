@@ -4,7 +4,7 @@
 <h1 align="center">Tile-Slide</h1>
 
   <p align="center">
-    Small game I made during a project day in school. This means this game was made in approximately 8 hours and is therefore not very good, but has been an very interesting experience.
+    Small game I made during a project day in school. This means this game was made in approximately 8 hours and is therefore not very good, but has been an very interesting experience. It was made entirely in java with the openjdk-16. Should any problems arise try downloading the correct jdk.
     <br />
     <a href="https://github.com/Silahviing/Tile-Slide"><strong>Explore the docs »</strong></a>
     <br />
