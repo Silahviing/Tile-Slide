@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a small sliding puzzle game. You can save the current state of the field locally and continue later and you can set the size of the field yourself. Somethings are not working properly yet and will be fixed sometome in the future.
+This is a small sliding puzzle game. You can save the current state of the field locally and continue later and you can set the size of the field yourself. Somethings are not working properly yet and will be fixed sometime in the future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -29,7 +29,7 @@ This is a small sliding puzzle game. You can save the current state of the field
 
 - [ ] Fixing some bugs
 - [ ] Add language support
-- [ ] better textures?
+- [ ] better textures? -> pictures
     - [ ] and maybe custom sounds?
 
 See the [open issues](https://github.com/Silahviing/Tile-Slide/issues) for a full list of proposed features (and known issues).
